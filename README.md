@@ -62,8 +62,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: `your-email@gmail.com`  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 📧 Email: `keerthanag3292@gmail.com`  
+- 💼 LinkedIn:`https://www.linkedin.com/in/keerthana-g-043829295`
 
 ---
 
