@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer | CSE Undergrad</h3>
 
 
-  <img alt="Coding" width="280" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="float: right; margin-left: 20px;" />
 
 ## 👩‍💻 About Me
 
