@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Keerthana G</h1>
 <h3 align="center">Full Stack Developer | CSE Undergrad</h3>
 
-<div style="text-align: center;">
-  <img alt="Coding" width="280" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="float: right; margin-left: 20px;" />
-  <p>This caption is centered below the image (but image floats right)</p>
-</div>
 
----
+  <img alt="Coding" width="280" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="float: right; margin-left: 20px;" />
 
 ## 👩‍💻 About Me
 
