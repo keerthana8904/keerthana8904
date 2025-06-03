@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keerthana G</h1>
-<h3 align="center">Full Stack Developer | ML Enthusiast | CSE Undergrad</h3>
+<h3 align="center">Full Stack Developer | CSE Undergrad</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
