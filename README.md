@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 I'm a Computer Science student at **Sai Vidya Institute of Technology**
-- 🔭 I’m currently working on **AI/ML projects and full-stack web apps**
+- 🔭 I’m currently working on ** full-stack projects**
 - 🌱 I’m learning **React.js**, **Node.js**, and **MongoDB**
 - 💡 I love exploring tech, building real-world projects, and collaborating!
 
