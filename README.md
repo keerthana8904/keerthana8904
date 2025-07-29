@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthana G</h1>
-<h3 align="center">Full Stack Developer | Computer Science Undergrad</h3>
+<h3 align="center">Full Stack Developer | Computer Science Undergrad Final year</h3>
 
 ---
 
