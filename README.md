@@ -7,7 +7,7 @@
 
 - 🎓 CSE Student at **Sai Vidya Institute of Technology**  
 - 🔭 Actively building real-world **full-stack web applications**  
-- 🌱 Currently learning **React.js**, **Node.js**, **MongoDB**  
+- 🌱 Currently exploring **React.js**, **Node.js**, **MongoDB**  
 - 💬 Passionate about solving problems and turning ideas into code  
 - 🤝 Open to collaboration and learning with the tech community  
 
@@ -41,7 +41,11 @@
 
 Here are some projects I’m proud of — focused on full-stack or frontend development:
 
-### 💼 [Job Portal - Virtual Yoga Trainer](https://github.com/keerthana8904/virtual-yoga-trainer)  
+### 💼 [Job Portal – Personal Job Hunt](https://github.com/keerthana8904/job-portal)  
+A platform to search and apply for jobs, track applications, and manage job opportunities.  
+> React.js | Node.js | Express.js | MySQL | Full-Stack Development
+
+### 🧘 [Virtual Yoga Trainer](https://github.com/keerthana8904/virtual-yoga-trainer)  
 A web application for yoga enthusiasts to explore yoga courses, register for sessions, and track progress.  
 > React.js | Node.js | Express.js | MySQL | Full-Stack Development
 
