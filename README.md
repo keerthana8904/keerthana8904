@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Keerthana G</h1>
-<h3 align="center">Full Stack Developer | Computer Science Undergrad Final year</h3>
+<h3 align="center">Full Stack Developer | Computer Science Undergrad (Final Year)</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 CSE Student at **Sai Vidya Institute of Technology**
-- 🔭 Actively building real-world **full-stack web applications**
-- 🌱 Currently learning **React.js**, **Node.js**, **MongoDB**
-- 💬 I enjoy solving problems and bringing ideas to life through code
-- 🤝 Always open to collaboration and learning with the community
+- 🎓 CSE Student at **Sai Vidya Institute of Technology**  
+- 🔭 Actively building real-world **full-stack web applications**  
+- 🌱 Currently learning **React.js**, **Node.js**, **MongoDB**  
+- 💬 Passionate about solving problems and turning ideas into code  
+- 🤝 Open to collaboration and learning with the tech community  
 
 ---
 
@@ -39,30 +39,34 @@
 
 ## 🌟 Featured Projects
 
-Here are some projects I'm proud of — each focused on applying full-stack or frontend concepts:
+Here are some projects I’m proud of — focused on full-stack or frontend development:
 
-### 🎬 [Movie Search App](https://github.com/keerthana8904/movieSearch)
+### 💼 [Job Portal - Virtual Yoga Trainer](https://github.com/keerthana8904/virtual-yoga-trainer)  
+A web application for yoga enthusiasts to explore yoga courses, register for sessions, and track progress.  
+> React.js | Node.js | Express.js | MySQL | Full-Stack Development
+
+### 🎬 [Movie Search App](https://github.com/keerthana8904/movieSearch)  
 Search and display movies dynamically using OMDB API  
 > JavaScript | HTML | API Integration | DOM Manipulation
 
-### 🔐 [Password Generator - React](https://github.com/keerthana8904/passwordGenerator-React)
-Generates strong passwords with customizable options  
+### 🔐 [Password Generator - React](https://github.com/keerthana8904/passwordGenerator-React)  
+Generate strong passwords with customizable options  
 > React.js | Functional Components | Hooks
 
-### 🎲 [Dice Roller](https://github.com/keerthana8904/DiceRoller)
-Simple CSS project that rolls a dice randomly on click  
+### 🎲 [Dice Roller](https://github.com/keerthana8904/DiceRoller)  
+Random dice roller with interactive CSS animations  
 > CSS Animation | DOM Events
 
-### 🎯 [Marks Calculator](https://github.com/keerthana8904/Marks_Calculator)
-Calculates average marks and grades using JavaScript  
+### 🎯 [Marks Calculator](https://github.com/keerthana8904/Marks_Calculator)  
+Calculate average marks and grades from user input  
 > JavaScript | Logic Building | User Input Handling
 
-### 🥁 [Drum Flow Kit](https://github.com/keerthana8904/Drum_flow_kit)
-Drum pad that plays sound when you click or press keys  
+### 🥁 [Drum Flow Kit](https://github.com/keerthana8904/Drum_flow_kit)  
+Interactive drum pad with sound effects on click or keypress  
 > CSS | JavaScript | Audio Events
 
-### 📅 [Age Calculator](https://github.com/keerthana8904/AgeCalculator)
-Takes DOB and gives your exact age  
+### 📅 [Age Calculator](https://github.com/keerthana8904/AgeCalculator)  
+Input DOB to calculate exact age  
 > JavaScript | Date Manipulation | UI
 
 ---
@@ -79,8 +83,9 @@ Takes DOB and gives your exact age
 ## 📫 Connect With Me
 
 - 📧 Email: **keerthanag3292@gmail.com**  
-- 💼 LinkedIn: [Keerthana G](https://www.linkedin.com/in/keerthana-g-043829295)
+- 💼 LinkedIn: [Keerthana G](https://www.linkedin.com/in/keerthana-g-043829295)  
+- 🐱 GitHub: [keerthana8904](https://github.com/keerthana8904)  
 
 ---
 
-⭐ *Thanks for visiting my profile! Let's build something awesome together.*
+⭐ *Thanks for visiting my profile! Let’s build something amazing together.*
